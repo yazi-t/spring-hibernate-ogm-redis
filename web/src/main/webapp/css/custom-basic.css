@@ -1,0 +1,24 @@
+.navbar {
+    border-radius: 0;
+}
+.navbar-inverse {
+    background-color: #313238;
+    border-color: #313238;
+}
+.form-control {
+    border-radius: 0;
+}
+.btn {
+    border-radius: 0;
+}
+.text-large {
+    width: 60%;
+    height: 50px;
+    line-height: 1.8;
+    font-size: 24px;
+    padding: 6px 24px;
+}
+.detail {
+    padding: 20px 0;
+    border: 1px solid rgb(236, 236, 236);
+}
