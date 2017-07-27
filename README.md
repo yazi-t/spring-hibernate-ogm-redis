@@ -22,7 +22,7 @@ This sample project has been developed with hibernate OGM Mongodb provider and S
 ## Screens
 
 ### Redis CLI
-![Redis CLI](/screens/sreen01_cli.png?raw=true "Redis CLI")
+<img src="screens/sreen01_cli.png" alt="Redis CLI" class="inline"/>
 
 ## Code
 ### Persistance.xml
