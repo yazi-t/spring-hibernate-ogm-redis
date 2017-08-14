@@ -11,9 +11,16 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Hibernate OGM REDIS
+ * <p>This application demonstrates usage of hibernate OGM MongoDB provider
+ * with spring MVC. Application consists of simple key-lookup based entity
+ * search functionality. This demo uses standard JPA annotations and methods to
+ * query data store.</p>
  *
- * Created by yasitha on 5/9/17.
+ * <p>Service implementation for vehicle Model. Implements business logic.</p>
+ *
+ * @author Yasitha Thilakaratne
+ * Date: 04/29/2017
+ *
  */
 @Transactional
 @Service("vehicleService")

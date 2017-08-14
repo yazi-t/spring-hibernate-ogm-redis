@@ -1,9 +1,16 @@
 package test.redis.model;
 
 /**
- * Hibernate redis
+ * <p>This application demonstrates usage of hibernate OGM MongoDB provider
+ * with spring MVC. Application consists of simple key-lookup based entity
+ * search functionality. This demo uses standard JPA annotations and methods to
+ * query data store.</p>
  *
- * Created by yasitha on 6/9/17.
+ * <p>Vehicle models. Since this is demo application using as enum constants.</p>
+ *
+ * @author Yasitha Thilakaratne
+ * Date: 04/29/2017
+ *
  */
 public enum Model {
     TOYOTA_COROLLA,
