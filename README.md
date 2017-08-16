@@ -1,7 +1,7 @@
 # spring-hibernate-ogm-redis
 Hibernate OGM redis project with Spring MVC integration
 
-This sample project has been developed with hibernate OGM Mongodb provider and Spring MVC framework.
+This sample project has been developed with hibernate OGM Redis provider and Spring MVC framework.
 
 ## Installing
 
